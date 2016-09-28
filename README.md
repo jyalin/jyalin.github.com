@@ -1,2 +1,0 @@
-# jyalin.github.com
-text
